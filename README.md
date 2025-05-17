@@ -43,7 +43,7 @@
 
 ## 💝 Thanks to
 
-- [oli](https://github.com/olifloof)
+- [olivia](https://github.com/oliviafloof)
 - [Stylix](https://github.com/danth/stylix)
 
 &nbsp;
